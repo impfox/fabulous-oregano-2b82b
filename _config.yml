@@ -23,7 +23,7 @@ header:
       style: link
     - label: Contact Us
       url: /contact
-      style: secondary
+      style: primary
 footer:
   has_nav: true
   nav_links:
